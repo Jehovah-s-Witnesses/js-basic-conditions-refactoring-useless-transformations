@@ -1,6 +1,9 @@
-# template-vanilla
+# js-basic-conditions-useless-transformations
 
-## Text
+## Rules
+- Fix useless transformations
+- Try to reorganize conditions in 11-16 and 22-27 rows.(Try with logical AND)
+- Attach image with schema of conditions
 
 ## Criteria:
 
